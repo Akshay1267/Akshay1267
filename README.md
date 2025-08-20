@@ -1,6 +1,6 @@
 # Hi 👋, I'm Akshay Jain  
 
-🎓 MCA Student at MIET | 💻 Web Developer | 🚀 Aspiring Full Stack Developer  
+🎓 MCA Student at MIET | 💻 Web Developer | 🚀 Aspiring Software Engineer
 
 ---
 
@@ -44,7 +44,7 @@
 
 ### 🏆 Certifications
 - Data Structures & Algorithms – Apna College  
-- Web Development Bootcamp – DevTown  
+- Web Development Bootcamp – DevTown   
 - Master Data Management – TCS iON  
 - Email Marketing Internship – GEMA  
 
