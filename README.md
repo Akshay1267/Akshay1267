@@ -48,7 +48,7 @@
 - Master Data Management – TCS iON  
 - Email Marketing Internship – GEMA  
 
----
+-----
 
 ### 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akshay-jain-8816252a5/)  
