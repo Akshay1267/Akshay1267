@@ -49,7 +49,6 @@
 - Email Marketing Internship – GEMA  
 
 -----
-![Profile Views](https://komarev.com/ghpvc/?username=Akshay1267&color=blue)
 
 ### 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akshay-jain-8816252a5/)  
