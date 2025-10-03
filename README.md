@@ -14,11 +14,12 @@
 ---
 
 ### 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap, React.js, Next.js  
-- **Backend:** Basic Node.js (learning more)  
-- **Database:** SQL  
+- **Frontend:** HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS, Bootstrap
+- **Backend:** Node.js, Express.js 
+- **Database:** MongoDB, SQL  
 - **Languages:** Java, C  
-- **Version Control:** Git, GitHub  
+- **Version Control:** Git, GitHub
+- **Full Stack Framework:** MERN (MongoDB, Express.js, React.js, Node.js)
 
 ---
 
