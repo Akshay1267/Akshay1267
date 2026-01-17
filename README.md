@@ -62,11 +62,13 @@ I'm a passionate **MCA student** at MIET with a strong focus on building scalabl
 
 <div align="center">
   
-![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshay1267&show_icons=true&theme=radical)
+![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshay1267&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&count_private=true&include_all_commits=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Akshay1267&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Akshay1267&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&date_format=M%20j%5B%2C%20Y%5D)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay1267&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay1267&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&langs_count=8&exclude_repo=)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akshay1267&theme=tokyonight" alt="GitHub Profile Summary"/>
 
 </div>
 
