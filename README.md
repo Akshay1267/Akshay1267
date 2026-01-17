@@ -168,6 +168,7 @@ Database:
   - Master Data Management → TCS iON
 
 Professional Experience:
+  -Frontend Developer Intern → Hair Coaction
   - Email Marketing Internship → GEMA
 ```
 
