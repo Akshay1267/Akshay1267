@@ -37,16 +37,24 @@ I'm a passionate **MCA student** at MIET with a strong focus on building scalabl
 ### Database & Cloud
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### Deployment & Hosting
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 </details>
 
@@ -83,17 +91,37 @@ A modern, responsive portfolio built with **React.js** featuring:
 </td>
 <td width="50%">
 
-### 🎮 Rock-Paper-Scissors Game
-[![Live Demo](https://img.shields.io/badge/Live_Demo-3B82F6?style=for-the-badge&logo=vercel&logoColor=white)](https://rock-paper-game-smoky.vercel.app/)
-[![Repo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akshay1267/Rock-Paper-Game)
+### 🤖 AI ChatBot
+[![Live Demo](https://img.shields.io/badge/Live_Demo-3B82F6?style=for-the-badge&logo=vercel&logoColor=white)](https://ai-chat-bot-liart-delta.vercel.app/)
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akshay1267/AI-ChatBot)
 
-Interactive browser-based game with:
-- 🎯 Real-time score tracking
-- 🎨 Clean, intuitive interface
-- 📱 Mobile-friendly design
-- 🏆 Win/Loss statistics
+An intelligent AI-powered chatbot application featuring:
+- 🤖 Natural language processing
+- 💬 Real-time chat interface
+- 🎨 Modern & intuitive UI
+- ⚡ Fast response times
 
-**Tech:** HTML5, CSS3, JavaScript
+**Tech:** React.js, API Integration, JavaScript
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🛒 DailyEssentials E-Commerce
+[![Live Demo](https://img.shields.io/badge/Live_Demo-3B82F6?style=for-the-badge&logo=vercel&logoColor=white)](https://ai-chat-bot-liart-delta.vercel.app/)
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akshay1267/DailyEssentials-ecommerce)
+
+Full-featured e-commerce platform with:
+- 🛍️ Product catalog & search
+- 🛒 Shopping cart functionality
+- 💳 Secure checkout process
+- 📦 Order management system
+
+**Tech:** MERN Stack, MongoDB, Express.js, React.js, Node.js
+
+</td>
+<td width="50%">
 
 </td>
 </tr>
