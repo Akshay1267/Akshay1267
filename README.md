@@ -123,18 +123,48 @@ Full-featured e-commerce platform with:
 </td>
 <td width="50%">
 
+### 🌍 WanderLust
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akshay1267/WanderLust)
+
+A travel and accommodation booking platform featuring:
+- 🏨 Property listings & details
+- 🔍 Advanced search & filters
+- 📍 Location-based services
+- ⭐ Reviews & ratings system
+
+**Tech:** MERN Stack, MongoDB, Express.js, React.js, Node.js
+
 </td>
 </tr>
 </table>
 
 ## 🏆 Certifications & Achievements
 
+### Cloud & AI Certifications
 ```yaml
-Technical Certifications:
-  - Data Structures & Algorithms → Apna College
+Cloud Computing:
+  - AWS Solutions Architecture Job Simulation → Forage (Jan 2026)
+  - Oracle Cloud Infrastructure 2025 AI Foundations Associate → Oracle (Sep 2025)
+  - Introduction to Generative AI → Google Cloud Skills Boost (Sep 2025)
+
+Artificial Intelligence:
+  - Gemini Certified Student (University) → Google (Oct 2025 - Oct 2028)
+  - Generative AI for All → PW PhysicsWallah (Jan 2026)
+
+Cybersecurity:
+  - Tata Group Cybersecurity Analyst Job Simulation → Forage (Feb 2025)
+```
+
+### Development & Database
+```yaml
+Programming & DSA:
+  - Data Structures & Algorithms (JAVA) → Apna College (Oct 2024)
   - Web Development Bootcamp → DevTown
+
+Database:
+  - Introduction to MongoDB → MongoDB (Sep 2025)
   - Master Data Management → TCS iON
-  
+
 Professional Experience:
   - Email Marketing Internship → GEMA
 ```
