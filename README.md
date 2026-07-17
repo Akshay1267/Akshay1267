@@ -8,7 +8,8 @@
 
 ## 🚀 About Me
 
-I'm a passionate **MCA student** at MIET with a strong focus on building scalable web applications. I love turning ideas into reality through clean code and intuitive user interfaces. Currently exploring the depths of **Data Structures & Algorithms** while crafting modern web experiences with **React.js** and **Next.js**.
+I'm a passionate **final-year MCA student** at **MIET** and a **Full Stack MERN Developer** with a strong focus on building scalable web applications. I love turning ideas into reality through clean code and intuitive user interfaces. Currently exploring the depths of **Data Structures & Algorithms** while crafting modern web experiences with **React.js** and **Next.js**. Skilled in the **MERN Stack**, **Java**, and **Python**, I'm continuously learning and building impactful software solutions.
+
 
 - 🔭 Building production-ready applications with **MERN Stack**
 - 🌱 Deepening my knowledge in **DSA, System Design & Network Security**
